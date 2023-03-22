@@ -1,6 +1,7 @@
- CSS from Bootstrap
 
- @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+rgba(piros, zöld, kék, alfa)
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
  * {
    margin: 0;
@@ -112,6 +113,9 @@
    background: #CD201F;
    color: #ffffff;
  }
+
+
+ 
  
  
  
